@@ -1,4 +1,3 @@
 # hello-world
-My first repository
 Hi.
-Anand here. I would like to know how github works.
+Anand here. This is my first repository.I would like to know how github works.
